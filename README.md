@@ -9,14 +9,14 @@ This repository contains a collection of useful Python libraries across differen
 - [Matplotlib](/Matplotlib.ipynb)
 - [TensorFlow](/TensorFlow.ipynb)
 - [PyTorch](/PyTorch.ipynb)
-- [Scikit-learn](#scikit-learn)
-- [Keras](#keras)
+<!-- - [Scikit-learn](#scikit-learn) -->
+<!-- - [Keras](#keras) -->
 - [SQLAlchemy](/SQLAlchemy.ipynb)
-- [Requests](#requests)
-- [Beautiful Soup](#beautiful-soup)
-- [OpenCV](#opencv)
-- [NLTK](#nltk)
-- [pytest](#pytest)
+<!-- - [Requests](#requests) -->
+<!-- - [Beautiful Soup](#beautiful-soup) -->
+<!-- - [OpenCV](#opencv) -->
+<!-- - [NLTK](#nltk) -->
+<!-- - [pytest](#pytest) -->
 
 <!-- ## NumPy
 
