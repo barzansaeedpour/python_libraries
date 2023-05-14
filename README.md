@@ -4,23 +4,21 @@ This repository contains a collection of useful Python libraries across differen
 
 ## Table of Contents
 
-1. [NumPy](#numpy)
-2. [Pandas](#pandas)
-3. [Matplotlib](#matplotlib)
-4. [TensorFlow](#tensorflow)
-5. [PyTorch](#pytorch)
-6. [Scikit-learn](#scikit-learn)
-7. [Keras](#keras)
-8. [Django](#django)
-9. [Flask](#flask)
-10. [SQLAlchemy](#sqlalchemy)
-11. [Requests](#requests)
-12. [Beautiful Soup](#beautiful-soup)
-13. [OpenCV](#opencv)
-14. [NLTK](#nltk)
-15. [pytest](#pytest)
+- [NumPy](/01_NumPy.ipynb)
+- [Pandas](/Pandas.ipynb)
+- [Matplotlib](/Matplotlib.ipynb)
+- [TensorFlow](/TensorFlow.ipynb)
+- [PyTorch](/PyTorch.ipynb)
+- [Scikit-learn](#scikit-learn)
+- [Keras](#keras)
+- [SQLAlchemy](/SQLAlchemy.ipynb)
+- [Requests](#requests)
+- [Beautiful Soup](#beautiful-soup)
+- [OpenCV](#opencv)
+- [NLTK](#nltk)
+- [pytest](#pytest)
 
-## NumPy
+<!-- ## NumPy
 
 NumPy is a fundamental library for scientific computing in Python. It provides powerful numerical operations and multi-dimensional array manipulation, making it essential for tasks such as mathematical computations, data analysis, and linear algebra.
 
@@ -78,7 +76,7 @@ NLTK (Natural Language Toolkit) is a comprehensive library for natural language 
 
 ## pytest
 
-pytest is a popular testing framework that simplifies the process of writing and executing tests in Python. It offers a simple yet powerful syntax for defining test cases, fixtures for test setup and teardown, and extensive plugins for customization. pytest helps ensure the quality and reliability of your codebase through efficient and automated testing.
+pytest is a popular testing framework that simplifies the process of writing and executing tests in Python. It offers a simple yet powerful syntax for defining test cases, fixtures for test setup and teardown, and extensive plugins for customization. pytest helps ensure the quality and reliability of your codebase through efficient and automated testing. -->
 
 These are just a few examples of the wide range of Python libraries available. Each library brings unique capabilities and features to the table, empowering you to tackle various challenges in your projects. By leveraging these libraries, you can save development time, improve code quality, and unlock new possibilities in your Python applications.
 
