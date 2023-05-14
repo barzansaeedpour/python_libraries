@@ -4,7 +4,7 @@ This repository contains a collection of useful Python libraries across differen
 
 ## Table of Contents
 
-- [NumPy](/01_NumPy.ipynb)
+- [NumPy](/NumPy.ipynb)
 - [Pandas](/Pandas.ipynb)
 - [Matplotlib](/Matplotlib.ipynb)
 - [TensorFlow](/TensorFlow.ipynb)
